@@ -1,7 +1,7 @@
 ## All proxies
 
 ```
-https://raw.githubusercontent.com/devho3ein/tg-proxy/refs/heads/main/All_Proxys.txt
+https://raw.githubusercontent.com/devho3ein/tg-proxy/refs/heads/main/proxys/All_Proxys.txt
 ```
 
 ## Best proxies
