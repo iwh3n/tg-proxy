@@ -7,121 +7,121 @@ https://raw.githubusercontent.com/iwh3n/tg-proxy/refs/heads/main/proxys/All_Prox
 ## Best proxies
 
 ```
-https://t.me/proxy?server=62.60.178.119&port=443&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ
+https://t.me/proxy?server=vpn.prxtoday.store&port=443&secret=ee29260362b2497chf092e631593a534e5a376706e2e707278746f6461792e73746f7265
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=140.233.167.221&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
+https://t.me/proxy?server=87.248.132.201&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=176.65.135.97&port=2053&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=194.233.94.9&port=443&secret=eee3727d72c23452d6928e9a5ea16f0940676f6f676c65617069732e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=permiiium.lavazemi2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+https://t.me/proxy?server=host.numbplodab.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add686F73742E6E756D62706C6F6461622E636F2E756B
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=mtproto.vaheed.net&port=2028&secret=dd2028b5afa0e6d701acec3cd9bb8a902b
+https://t.me/proxy?server=195.254.165.143&port=4455&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=194.77.70.40&port=8880&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=23.88.115.237&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=194.77.70.85&port=8080&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=77.72.80.133&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef89c
+https://t.me/proxy?server=195.254.165.250&port=155&secret=79e70102001e7807f0104386124c0479
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=87.248.129.186&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=hetzner.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff6865747a6e65722e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=65.108.3.89&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=65.109.147.218&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=webhook.darkmoon.ir.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
+https://t.me/proxy?server=asperin.info.206-197-43.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=91.99.145.87&port=888&secret=7gwwYoISy716xRkTAgVSXRVpYS5zdGVhbXBvd2VyZWQuY29t
+https://t.me/proxy?server=185.84.157.150&port=444&secret=1603010200010001fc031386e24c3add
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=52.47.47.90&port=15&secret=dd1603010200010001fc030386e24c3add
+https://t.me/proxy?server=109.104.154.81&port=443&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=87.248.129.47&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=5.78.76.14&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=152.232.9.254&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=icon.davazdah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=195.254.165.207&port=443&secret=FgMBAgABAAH8AwOG4kw63QFgMBAgABAAH8AwOG4kw63Q
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=7.7.7.7.regiatmoon.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=feature-existing-default.buy-request.co.uk.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=1.0.0.1.lll-lll.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=i-love.ascel.la&port=443&secret=eef1a12a129e596c84f0d0edad1ad331c6692d6c6f76652e617363656c2e6c61
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=iproxyland.sorati.vasl.exirgameofficialsite.sbs&port=443&secret=dd9cba366108db0588d5e8b7193a0ff12b
+https://t.me/proxy?server=85.209.154.154&port=7443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=5.75.211.203&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=activtionorg.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 ```
 
 ---
