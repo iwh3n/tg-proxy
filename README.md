@@ -7,13 +7,19 @@ https://raw.githubusercontent.com/iwh3n/tg-proxy/refs/heads/main/proxys/All_Prox
 ## Best proxies
 
 ```
-https://t.me/proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=32.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=kfk31.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
+```
+
+---
+
+```
+https://t.me/proxy?server=best.ir.agrescjarkahdgs.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d
 ```
 
 ---
@@ -25,55 +31,7 @@ https://t.me/proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e0141
 ---
 
 ```
-https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-```
-
----
-
-```
-https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-```
-
----
-
-```
-https://t.me/proxy?server=jigareto-kham-kham.ir.paeez-amad.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d
-```
-
----
-
-```
-https://t.me/proxy?server=417.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-```
-
----
-
-```
-https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-```
-
----
-
-```
-https://t.me/proxy?server=ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-```
-
----
-
-```
-https://t.me/proxy?server=pmjc.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-```
-
----
-
-```
-https://t.me/proxy?server=ir.pbdjarum.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-```
-
----
-
-```
-https://t.me/proxy?server=s04.neo-trading.org&port=443&secret=ee364a7bd5b928139fbc6b2b458e9fef9d686f66662e7275
+https://t.me/proxy?server=ahvaz.co.uk.&port=443&secret=3d9nzV3ND-h0q25PYP71KC8=
 ```
 
 ---
@@ -85,43 +43,85 @@ https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMC
 ---
 
 ```
-https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q
+https://t.me/proxy?server=irluxcars.site.&port=443&secret=3d9nzV3ND-h0q25PYP71KC8=
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=turk.dasy2k1.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=onlineforless.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=dpi.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=shahi.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=91.234.147.6.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=ppp7332.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+```
+
+---
+
+```
+https://t.me/proxy?server=ir.pbdjarum.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+```
+
+---
+
+```
+https://t.me/proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+```
+
+---
+
+```
+https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+```
+
+---
+
+```
+https://t.me/proxy?server=2yyddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+```
+
+---
+
+```
+https://t.me/proxy?server=kolomb.pesarelak.ir.&port=8443&secret=ee104462821249bd7ac519130220c25d097777772e636c6f7564666c6172652e636f6d
+```
+
+---
+
+```
+https://t.me/proxy?server=are.ajjab.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+```
+
+---
+
+```
+https://t.me/proxy?server=91.234.147.12.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 ```
 
 ---
