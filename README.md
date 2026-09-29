@@ -7,37 +7,19 @@ https://raw.githubusercontent.com/iwh3n/tg-proxy/refs/heads/main/proxys/All_Prox
 ## Best proxies
 
 ```
-https://t.me/proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=dpi.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=77.72.80.132&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=91.234.147.13.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA
-```
-
----
-
-```
-https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-```
-
----
-
-```
-https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-```
-
----
-
-```
-https://t.me/proxy?server=s447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 ```
 
 ---
@@ -49,79 +31,97 @@ https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd1044628212
 ---
 
 ```
+https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+```
+
+---
+
+```
+https://t.me/proxy?server=194.60.228.4&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+```
+
+---
+
+```
 https://t.me/proxy?server=bo.cryptocurency.wiki&port=443&secret=eeafff8ed2b758741b6872fb8b00f1230270782e63727970746f637572656e63792e77696b69
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=white.antony-gordon.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=s47n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=7999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=px.cryptocurency.wiki&port=443&secret=eec7f1e2b45228a67eba9ab343a13ec17f70782e63727970746f637572656e63792e77696b69
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=s7n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=my-iran.vingardium.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070
+https://t.me/proxy?server=ir.atcfirealarms.co.uk.&port=443&secret=EERighJJvXrFGRMCIMjdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=91.234.147.5.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=koochamoon.ir.agianaytan.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=65.21.227.200&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ferecans.jadidmadid.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+https://t.me/proxy?server=ii0000.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=87.58.149.247&port=443&secret=eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=turk.dasy2k1.co.uk.&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=185.3.200.186&port=2054&secret=7hYDAQIAAQAB/AMDhuJMOtNiaXNjb3R0aS55ZWt0YW5ldC5jb20
+```
+
+---
+
+```
+https://t.me/proxy?server=kurd.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
