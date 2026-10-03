@@ -7,55 +7,49 @@ https://raw.githubusercontent.com/iwh3n/tg-proxy/refs/heads/main/proxys/All_Prox
 ## Best proxies
 
 ```
-https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=all-devices.ir.awedsj.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d
+https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=69d7d7d0.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=167.235.225.159&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=server3.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=v6v68.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=rich-and-ckleck.tosenortejarat.info&port=8443&secret=1603010200010001fc030386e24c3add
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=static.mangoseason3.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-```
-
----
-
-```
-https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+https://t.me/proxy?server=nakhand-mesvak-gerone.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
 ```
 
 ---
@@ -67,61 +61,67 @@ https://t.me/proxy?server=zenon.flashspder.info&port=8443&secret=160301020001000
 ---
 
 ```
-https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=proxy2.proverka.help&port=443&secret=dd15681a893dce1de72b83eb0a12d3dcac
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=www.iirr.irload-b.ir&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ferecans.jadidmadid.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ajab.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=p.lite64.click&port=443&secret=eee269911715c9ef9f821d02314e6627d96c69746536342e73697465
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=v6v68.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=kampozit-gonde.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=p.lite64.click&port=443&secret=ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=img.mangoseason6.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 ```
 
 ---
 
 ```
-https://t.me/proxy?server=cdn1.cdntide.org&port=443&secret=eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275
+https://t.me/proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365
+```
+
+---
+
+```
+https://t.me/proxy?server=main.tosenortejarat.info&port=8443&secret=1603010200010001fc030386e24c3add
 ```
 
 ---
